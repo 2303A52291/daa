@@ -1,0 +1,9 @@
+team details 
+team :T257
+team name :c coders
+
+
+member1 :2303a52291(Shashidhar)
+member2:2303a52146(praneeth)
+member 3:2303a52148(maanisharan)
+member4:2303a52288(dinesh)
